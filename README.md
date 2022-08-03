@@ -1,6 +1,13 @@
 # Visual Studio Code extensions for react js developers #
 install below extensions in your vsCode for better performance
 
+
+
+
+
+
+
+
 ## Normal ##
 
 >Path Intellisense
@@ -20,16 +27,24 @@ GitHub.vscode-pull-request-github
 eamodio.gitlens
 ```
 
-#### OTHERS ####
+<details><summary>OTHERS</summary>
+<p>
 
-*  live preview 
+* live preview 
+
 ```
-ms-vscode.live-server
+   ms-vscode.live-server
 ```
-*  code spell checker
+
+
+* code spell checker
+
 ```
 streetsidesoftware.code-spell-checker
 ```
+
+</p>
+</details>
 
 ## 1. Productivity Tools ##
 >Tabnine
@@ -46,11 +61,17 @@ esbenp.prettier-vscode
 ```
 
 
-#### OTHERS ####
-*  Beautify 
+<details><summary>OTHERS</summary>
+<p>
+
+* Beautify
+
 ```
 HookyQR.beautify
 ```
+
+</p>
+</details>
 
 ## 2. HTML ##
 > HTML snippets
@@ -66,13 +87,18 @@ ritwickdey.LiveServer
 formulahendry.auto-rename-tag
 ```
 
-#### OTHERS ####
+<details><summary>OTHERS</summary>
+<p>
 
- *  Auto Close Tag 
- ```
+* Auto Close Tag 
+
+```
  formulahendry.auto-close-tag
- ```
- 
+```
+
+</p>
+</details>
+
  ## 3. CSS ##
  > HTML CSS snippets
 ```
@@ -86,12 +112,17 @@ ecmel.vscode-html-css
  ```
  anseki.vscode-color
  ```
+<details><summary>OTHERS</summary>
+<p>
 
-#### OTHERS ####
-*  Tailwind CSS IntelliSense 
- ```
+* Tailwind CSS IntelliSense 
+
+```
  bradlc.vscode-tailwindcss
- ```
+```
+
+</p>
+</details>
  
 
 ## 4. Javascript
@@ -107,12 +138,18 @@ dbaeumer.vscode-eslint
 ```
 xabikos.JavaScriptSnippets
 ```
-#### OTHERS ####
 
-*  Bracket Pair Colorizer 
+<details><summary>OTHERS</summary>
+<p>
+
+* Bracket Pair Colorizer 
+
 ```
 CoenraadS.bracket-pair-colorizer
 ```
+
+</p>
+</details>
 
 ## 5. React ##
 > npm
@@ -128,19 +165,38 @@ rodrigovallades.es7-react-js-snippets
 PKief.material-icon-theme
 ```
 
-#### OTHERS ####
+<details><summary>OTHERS</summary>
+<p>
 
-*  Babel Javascript 
+* Babel Javascript  
+
 ```
 mgmcdermott.vscode-language-babel
 ```
 
 *  REST client 
+
 ```
 humao.rest-client
 ```
 
-*  Thunder Client 
+* Thunder Client 
+
 ```
 rangav.vscode-thunder-client
 ```
+
+</p>
+</details>
+
+
+## 6. TypeScript ##
+>JavaScript and TypeScript Nightly
+```
+ms-vscode.vscode-typescript-next
+```
+>TSLint
+```
+ms-vscode.vscode-typescript-tslint-plugin
+```
+
