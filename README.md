@@ -1,14 +1,34 @@
 # Visual Studio Code extensions for react js developers #
 install below extensions in your vsCode for better performance
 
-## normal setup ##
-> Path Intellisense
+## Normal ##
+
+>Path Intellisense
 ```
 christian-kohler.path-intellisense
 ```
-> npm
+>Setting Sync
 ```
-eg2.vscode-npm-script
+Shan.code-settings-sync
+```
+>GitHub
+```
+GitHub.vscode-pull-request-github
+```
+>GitLens
+```
+eamodio.gitlens
+```
+
+#### OTHERS ####
+
+* ##### live preview #####
+```
+ms-vscode.live-server
+```
+* ##### code spell checker #####
+```
+streetsidesoftware.code-spell-checker
 ```
 
 ## 1. Productivity Tools ##
@@ -32,9 +52,11 @@ esbenp.prettier-vscode
 HookyQR.beautify
 ```
 
-
-
 ## 2. HTML ##
+> HTML snippets
+ ```
+ abusaidm.html-snippets
+ ```
 >Live Server
 ```
 ritwickdey.LiveServer
@@ -44,35 +66,35 @@ ritwickdey.LiveServer
 formulahendry.auto-rename-tag
 ```
 
-
 #### OTHERS ####
-* ##### HTML snippets #####
- ```
- abusaidm.html-snippets
- ```
+
  * ##### Auto Close Tag #####
  ```
  formulahendry.auto-close-tag
  ```
  
  ## 3. CSS ##
+ > HTML CSS snippets
+```
+ecmel.vscode-html-css
+```
  >CSS Peek
  ```
  pranaygp.vscode-css-peek
  ```
- 
+ >Color picker
+ ```
+ anseki.vscode-color
+ ```
+
 #### OTHERS ####
-* ##### HTML CSS snippets #####
-```
-ecmel.vscode-html-css
-```
 * ##### Tailwind CSS IntelliSense #####
  ```
  bradlc.vscode-tailwindcss
  ```
  
 
-## 4 Javascript
+## 4. Javascript
 >code runner
 ```
 formulahendry.code-runner
@@ -80,4 +102,45 @@ formulahendry.code-runner
 >ESLint
 ```
 dbaeumer.vscode-eslint
+```
+>JavaScript (ES6) code snippets
+```
+xabikos.JavaScriptSnippets
+```
+#### OTHERS ####
+
+* ##### Bracket Pair Colorizer #####
+```
+CoenraadS.bracket-pair-colorizer
+```
+
+## 5. React ##
+> npm
+```
+eg2.vscode-npm-script
+```
+>ES7 React/Redux/GraphQL/React-Native snippets
+```
+rodrigovallades.es7-react-js-snippets
+```
+>Material Icon theme
+```
+PKief.material-icon-theme
+```
+
+#### OTHERS ####
+
+* ##### Babel Javascript #####
+```
+mgmcdermott.vscode-language-babel
+```
+
+* ##### REST client #####
+```
+humao.rest-client
+```
+
+* ##### Thunder Client #####
+```
+rangav.vscode-thunder-client
 ```
