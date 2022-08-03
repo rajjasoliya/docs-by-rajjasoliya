@@ -22,11 +22,11 @@ eamodio.gitlens
 
 #### OTHERS ####
 
-* ##### live preview #####
+*  live preview 
 ```
 ms-vscode.live-server
 ```
-* ##### code spell checker #####
+*  code spell checker
 ```
 streetsidesoftware.code-spell-checker
 ```
@@ -47,7 +47,7 @@ esbenp.prettier-vscode
 
 
 #### OTHERS ####
-* ##### Beautify #####
+*  Beautify 
 ```
 HookyQR.beautify
 ```
@@ -68,7 +68,7 @@ formulahendry.auto-rename-tag
 
 #### OTHERS ####
 
- * ##### Auto Close Tag #####
+ *  Auto Close Tag 
  ```
  formulahendry.auto-close-tag
  ```
@@ -88,7 +88,7 @@ ecmel.vscode-html-css
  ```
 
 #### OTHERS ####
-* ##### Tailwind CSS IntelliSense #####
+*  Tailwind CSS IntelliSense 
  ```
  bradlc.vscode-tailwindcss
  ```
@@ -109,7 +109,7 @@ xabikos.JavaScriptSnippets
 ```
 #### OTHERS ####
 
-* ##### Bracket Pair Colorizer #####
+*  Bracket Pair Colorizer 
 ```
 CoenraadS.bracket-pair-colorizer
 ```
@@ -130,17 +130,17 @@ PKief.material-icon-theme
 
 #### OTHERS ####
 
-* ##### Babel Javascript #####
+*  Babel Javascript 
 ```
 mgmcdermott.vscode-language-babel
 ```
 
-* ##### REST client #####
+*  REST client 
 ```
 humao.rest-client
 ```
 
-* ##### Thunder Client #####
+*  Thunder Client 
 ```
 rangav.vscode-thunder-client
 ```
