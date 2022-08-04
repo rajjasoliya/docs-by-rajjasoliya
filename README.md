@@ -1,4 +1,4 @@
-# Visual Studio Code extensions for react js developers #
+# vs code extensions #
 install below extensions in your vsCode for better performance
 
 
@@ -8,7 +8,7 @@ install below extensions in your vsCode for better performance
 
 
 
-## Normal ##
+## General extensions ##
 
 >Path Intellisense
 ```
