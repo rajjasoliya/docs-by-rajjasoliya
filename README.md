@@ -76,7 +76,7 @@ HookyQR.beautify
 ## 2. HTML ##
 > HTML snippets
  ```
- abusaidm.html-snippets
+abusaidm.html-snippets
  ```
 >Live Server
 ```
@@ -93,7 +93,7 @@ formulahendry.auto-rename-tag
 * Auto Close Tag 
 
 ```
- formulahendry.auto-close-tag
+formulahendry.auto-close-tag
 ```
 
 </p>
@@ -118,7 +118,7 @@ ecmel.vscode-html-css
 * Tailwind CSS IntelliSense 
 
 ```
- bradlc.vscode-tailwindcss
+bradlc.vscode-tailwindcss
 ```
 
 </p>
