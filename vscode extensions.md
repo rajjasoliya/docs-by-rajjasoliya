@@ -1,5 +1,6 @@
 # vscode extensions #
-install below extensions in your vsCode for better performance
+install below extensions in your vsCode for better performance.
+*** I provide you extensions Id, so past it in your code's extension's search bar ***
 
 
 
