@@ -200,3 +200,4 @@ ms-vscode.vscode-typescript-next
 ms-vscode.vscode-typescript-tslint-plugin
 ```
 
+### doc by @rajjasoliya ###
